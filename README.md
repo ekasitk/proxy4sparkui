@@ -1,5 +1,5 @@
 # proxy4sparkui
-Configure nginx on the master node for a reverse proxy to Apache Spark web UI and history server. No more ssh socks/tunnel.
+Configure nginx on the master node for a reverse proxy to Apache Spark web UI and history server. No more ssh socks/tunnel. Useful for spark clusters in cloud.
 
 # Dependencies
 * nginx-1.9.4 or later
